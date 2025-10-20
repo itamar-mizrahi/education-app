@@ -1,3 +1,10 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "video-thumbnail",
+      "description": "Thumbnail for the educational video about space exploration.",
+      "imageUrl": "https://images.unsplash.com/photo-1741017162002-fac8e37509f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxzcGFjZSUyMG5lYnVsYXxlbnwwfHx8fDE3NjA4NDcyMjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "space nebula"
+    }
+  ]
 }
