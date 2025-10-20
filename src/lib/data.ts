@@ -1,6 +1,6 @@
 export const courseData = {
   title: 'Introduction to Modern Astronomy',
-  videoUrl: 'http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4',
+  videoUrl: 'https://youtu.be/Sklc_fQBmcs?si=izr2fIdFOGqakPW3http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4',
   videoThumbnailId: 'video-thumbnail',
 };
 
